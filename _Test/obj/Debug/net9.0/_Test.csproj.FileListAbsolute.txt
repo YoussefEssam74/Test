@@ -1,0 +1,15 @@
+C:\Users\youss\OneDrive\Desktop\C#\_Test\bin\Debug\net9.0\_Test.exe
+C:\Users\youss\OneDrive\Desktop\C#\_Test\bin\Debug\net9.0\_Test.deps.json
+C:\Users\youss\OneDrive\Desktop\C#\_Test\bin\Debug\net9.0\_Test.runtimeconfig.json
+C:\Users\youss\OneDrive\Desktop\C#\_Test\bin\Debug\net9.0\_Test.dll
+C:\Users\youss\OneDrive\Desktop\C#\_Test\bin\Debug\net9.0\_Test.pdb
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\_Test.AssemblyInfoInputs.cache
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\_Test.AssemblyInfo.cs
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\_Test.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\_Test.sourcelink.json
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\_Test.dll
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\refint\_Test.dll
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\_Test.pdb
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\_Test.genruntimeconfig.cache
+C:\Users\youss\OneDrive\Desktop\C#\_Test\obj\Debug\net9.0\ref\_Test.dll
